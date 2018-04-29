@@ -1,6 +1,6 @@
 //
-//  MycaeraappUITests.swift
-//  MycaeraappUITests
+//  MycameraAppUITests.swift
+//  MycameraAppUITests
 //
 //  Created by 会社② on 2018/04/29.
 //  Copyright © 2018年 会社②. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class MycaeraappUITests: XCTestCase {
+class MycameraAppUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

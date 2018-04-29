@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5449E77D2095EFC8008D4E76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5449E77C2095EFC8008D4E76 /* AppDelegate.swift */; };
-		5449E77F2095EFC8008D4E76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5449E77E2095EFC8008D4E76 /* ViewController.swift */; };
-		5449E7822095EFC8008D4E76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5449E7802095EFC8008D4E76 /* Main.storyboard */; };
-		5449E7842095EFC9008D4E76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5449E7832095EFC9008D4E76 /* Assets.xcassets */; };
-		5449E7872095EFC9008D4E76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5449E7852095EFC9008D4E76 /* LaunchScreen.storyboard */; };
-		5449E7922095EFC9008D4E76 /* MycaeraappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5449E7912095EFC9008D4E76 /* MycaeraappTests.swift */; };
-		5449E79D2095EFC9008D4E76 /* MycaeraappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5449E79C2095EFC9008D4E76 /* MycaeraappUITests.swift */; };
+		54B9AE722095F38D008A05DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9AE712095F38D008A05DD /* AppDelegate.swift */; };
+		54B9AE742095F38D008A05DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9AE732095F38D008A05DD /* ViewController.swift */; };
+		54B9AE772095F38D008A05DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54B9AE752095F38D008A05DD /* Main.storyboard */; };
+		54B9AE792095F38E008A05DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54B9AE782095F38E008A05DD /* Assets.xcassets */; };
+		54B9AE7C2095F38E008A05DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54B9AE7A2095F38E008A05DD /* LaunchScreen.storyboard */; };
+		54B9AE872095F38E008A05DD /* MycameraAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9AE862095F38E008A05DD /* MycameraAppTests.swift */; };
+		54B9AE922095F38E008A05DD /* MycameraAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9AE912095F38E008A05DD /* MycameraAppUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5449E78E2095EFC9008D4E76 /* PBXContainerItemProxy */ = {
+		54B9AE832095F38E008A05DD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5449E7712095EFC8008D4E76 /* Project object */;
+			containerPortal = 54B9AE662095F38D008A05DD /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5449E7782095EFC8008D4E76;
-			remoteInfo = Mycaeraapp;
+			remoteGlobalIDString = 54B9AE6D2095F38D008A05DD;
+			remoteInfo = MycameraApp;
 		};
-		5449E7992095EFC9008D4E76 /* PBXContainerItemProxy */ = {
+		54B9AE8E2095F38E008A05DD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5449E7712095EFC8008D4E76 /* Project object */;
+			containerPortal = 54B9AE662095F38D008A05DD /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5449E7782095EFC8008D4E76;
-			remoteInfo = Mycaeraapp;
+			remoteGlobalIDString = 54B9AE6D2095F38D008A05DD;
+			remoteInfo = MycameraApp;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5449E7792095EFC8008D4E76 /* Mycaeraapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mycaeraapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5449E77C2095EFC8008D4E76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5449E77E2095EFC8008D4E76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5449E7812095EFC8008D4E76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5449E7832095EFC9008D4E76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5449E7862095EFC9008D4E76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5449E7882095EFC9008D4E76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5449E78D2095EFC9008D4E76 /* MycaeraappTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MycaeraappTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5449E7912095EFC9008D4E76 /* MycaeraappTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MycaeraappTests.swift; sourceTree = "<group>"; };
-		5449E7932095EFC9008D4E76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5449E7982095EFC9008D4E76 /* MycaeraappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MycaeraappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5449E79C2095EFC9008D4E76 /* MycaeraappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MycaeraappUITests.swift; sourceTree = "<group>"; };
-		5449E79E2095EFC9008D4E76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54B9AE6E2095F38D008A05DD /* MycameraApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MycameraApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		54B9AE712095F38D008A05DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		54B9AE732095F38D008A05DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		54B9AE762095F38D008A05DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		54B9AE782095F38E008A05DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		54B9AE7B2095F38E008A05DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		54B9AE7D2095F38E008A05DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54B9AE822095F38E008A05DD /* MycameraAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MycameraAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		54B9AE862095F38E008A05DD /* MycameraAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MycameraAppTests.swift; sourceTree = "<group>"; };
+		54B9AE882095F38E008A05DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54B9AE8D2095F38E008A05DD /* MycameraAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MycameraAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		54B9AE912095F38E008A05DD /* MycameraAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MycameraAppUITests.swift; sourceTree = "<group>"; };
+		54B9AE932095F38E008A05DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5449E7762095EFC8008D4E76 /* Frameworks */ = {
+		54B9AE6B2095F38D008A05DD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5449E78A2095EFC9008D4E76 /* Frameworks */ = {
+		54B9AE7F2095F38E008A05DD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5449E7952095EFC9008D4E76 /* Frameworks */ = {
+		54B9AE8A2095F38E008A05DD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,137 +74,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5449E7702095EFC8008D4E76 = {
+		54B9AE652095F38D008A05DD = {
 			isa = PBXGroup;
 			children = (
-				5449E77B2095EFC8008D4E76 /* Mycaeraapp */,
-				5449E7902095EFC9008D4E76 /* MycaeraappTests */,
-				5449E79B2095EFC9008D4E76 /* MycaeraappUITests */,
-				5449E77A2095EFC8008D4E76 /* Products */,
+				54B9AE702095F38D008A05DD /* MycameraApp */,
+				54B9AE852095F38E008A05DD /* MycameraAppTests */,
+				54B9AE902095F38E008A05DD /* MycameraAppUITests */,
+				54B9AE6F2095F38D008A05DD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5449E77A2095EFC8008D4E76 /* Products */ = {
+		54B9AE6F2095F38D008A05DD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5449E7792095EFC8008D4E76 /* Mycaeraapp.app */,
-				5449E78D2095EFC9008D4E76 /* MycaeraappTests.xctest */,
-				5449E7982095EFC9008D4E76 /* MycaeraappUITests.xctest */,
+				54B9AE6E2095F38D008A05DD /* MycameraApp.app */,
+				54B9AE822095F38E008A05DD /* MycameraAppTests.xctest */,
+				54B9AE8D2095F38E008A05DD /* MycameraAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5449E77B2095EFC8008D4E76 /* Mycaeraapp */ = {
+		54B9AE702095F38D008A05DD /* MycameraApp */ = {
 			isa = PBXGroup;
 			children = (
-				5449E77C2095EFC8008D4E76 /* AppDelegate.swift */,
-				5449E77E2095EFC8008D4E76 /* ViewController.swift */,
-				5449E7802095EFC8008D4E76 /* Main.storyboard */,
-				5449E7832095EFC9008D4E76 /* Assets.xcassets */,
-				5449E7852095EFC9008D4E76 /* LaunchScreen.storyboard */,
-				5449E7882095EFC9008D4E76 /* Info.plist */,
+				54B9AE712095F38D008A05DD /* AppDelegate.swift */,
+				54B9AE732095F38D008A05DD /* ViewController.swift */,
+				54B9AE752095F38D008A05DD /* Main.storyboard */,
+				54B9AE782095F38E008A05DD /* Assets.xcassets */,
+				54B9AE7A2095F38E008A05DD /* LaunchScreen.storyboard */,
+				54B9AE7D2095F38E008A05DD /* Info.plist */,
 			);
-			path = Mycaeraapp;
+			path = MycameraApp;
 			sourceTree = "<group>";
 		};
-		5449E7902095EFC9008D4E76 /* MycaeraappTests */ = {
+		54B9AE852095F38E008A05DD /* MycameraAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				5449E7912095EFC9008D4E76 /* MycaeraappTests.swift */,
-				5449E7932095EFC9008D4E76 /* Info.plist */,
+				54B9AE862095F38E008A05DD /* MycameraAppTests.swift */,
+				54B9AE882095F38E008A05DD /* Info.plist */,
 			);
-			path = MycaeraappTests;
+			path = MycameraAppTests;
 			sourceTree = "<group>";
 		};
-		5449E79B2095EFC9008D4E76 /* MycaeraappUITests */ = {
+		54B9AE902095F38E008A05DD /* MycameraAppUITests */ = {
 			isa = PBXGroup;
 			children = (
-				5449E79C2095EFC9008D4E76 /* MycaeraappUITests.swift */,
-				5449E79E2095EFC9008D4E76 /* Info.plist */,
+				54B9AE912095F38E008A05DD /* MycameraAppUITests.swift */,
+				54B9AE932095F38E008A05DD /* Info.plist */,
 			);
-			path = MycaeraappUITests;
+			path = MycameraAppUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5449E7782095EFC8008D4E76 /* Mycaeraapp */ = {
+		54B9AE6D2095F38D008A05DD /* MycameraApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5449E7A12095EFC9008D4E76 /* Build configuration list for PBXNativeTarget "Mycaeraapp" */;
+			buildConfigurationList = 54B9AE962095F38E008A05DD /* Build configuration list for PBXNativeTarget "MycameraApp" */;
 			buildPhases = (
-				5449E7752095EFC8008D4E76 /* Sources */,
-				5449E7762095EFC8008D4E76 /* Frameworks */,
-				5449E7772095EFC8008D4E76 /* Resources */,
+				54B9AE6A2095F38D008A05DD /* Sources */,
+				54B9AE6B2095F38D008A05DD /* Frameworks */,
+				54B9AE6C2095F38D008A05DD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Mycaeraapp;
-			productName = Mycaeraapp;
-			productReference = 5449E7792095EFC8008D4E76 /* Mycaeraapp.app */;
+			name = MycameraApp;
+			productName = MycameraApp;
+			productReference = 54B9AE6E2095F38D008A05DD /* MycameraApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5449E78C2095EFC9008D4E76 /* MycaeraappTests */ = {
+		54B9AE812095F38E008A05DD /* MycameraAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5449E7A42095EFC9008D4E76 /* Build configuration list for PBXNativeTarget "MycaeraappTests" */;
+			buildConfigurationList = 54B9AE992095F38E008A05DD /* Build configuration list for PBXNativeTarget "MycameraAppTests" */;
 			buildPhases = (
-				5449E7892095EFC9008D4E76 /* Sources */,
-				5449E78A2095EFC9008D4E76 /* Frameworks */,
-				5449E78B2095EFC9008D4E76 /* Resources */,
+				54B9AE7E2095F38E008A05DD /* Sources */,
+				54B9AE7F2095F38E008A05DD /* Frameworks */,
+				54B9AE802095F38E008A05DD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5449E78F2095EFC9008D4E76 /* PBXTargetDependency */,
+				54B9AE842095F38E008A05DD /* PBXTargetDependency */,
 			);
-			name = MycaeraappTests;
-			productName = MycaeraappTests;
-			productReference = 5449E78D2095EFC9008D4E76 /* MycaeraappTests.xctest */;
+			name = MycameraAppTests;
+			productName = MycameraAppTests;
+			productReference = 54B9AE822095F38E008A05DD /* MycameraAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5449E7972095EFC9008D4E76 /* MycaeraappUITests */ = {
+		54B9AE8C2095F38E008A05DD /* MycameraAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5449E7A72095EFC9008D4E76 /* Build configuration list for PBXNativeTarget "MycaeraappUITests" */;
+			buildConfigurationList = 54B9AE9C2095F38E008A05DD /* Build configuration list for PBXNativeTarget "MycameraAppUITests" */;
 			buildPhases = (
-				5449E7942095EFC9008D4E76 /* Sources */,
-				5449E7952095EFC9008D4E76 /* Frameworks */,
-				5449E7962095EFC9008D4E76 /* Resources */,
+				54B9AE892095F38E008A05DD /* Sources */,
+				54B9AE8A2095F38E008A05DD /* Frameworks */,
+				54B9AE8B2095F38E008A05DD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5449E79A2095EFC9008D4E76 /* PBXTargetDependency */,
+				54B9AE8F2095F38E008A05DD /* PBXTargetDependency */,
 			);
-			name = MycaeraappUITests;
-			productName = MycaeraappUITests;
-			productReference = 5449E7982095EFC9008D4E76 /* MycaeraappUITests.xctest */;
+			name = MycameraAppUITests;
+			productName = MycameraAppUITests;
+			productReference = 54B9AE8D2095F38E008A05DD /* MycameraAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5449E7712095EFC8008D4E76 /* Project object */ = {
+		54B9AE662095F38D008A05DD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "会社②";
 				TargetAttributes = {
-					5449E7782095EFC8008D4E76 = {
+					54B9AE6D2095F38D008A05DD = {
 						CreatedOnToolsVersion = 9.3;
 					};
-					5449E78C2095EFC9008D4E76 = {
+					54B9AE812095F38E008A05DD = {
 						CreatedOnToolsVersion = 9.3;
-						TestTargetID = 5449E7782095EFC8008D4E76;
+						TestTargetID = 54B9AE6D2095F38D008A05DD;
 					};
-					5449E7972095EFC9008D4E76 = {
+					54B9AE8C2095F38E008A05DD = {
 						CreatedOnToolsVersion = 9.3;
-						TestTargetID = 5449E7782095EFC8008D4E76;
+						TestTargetID = 54B9AE6D2095F38D008A05DD;
 					};
 				};
 			};
-			buildConfigurationList = 5449E7742095EFC8008D4E76 /* Build configuration list for PBXProject "Mycaeraapp" */;
+			buildConfigurationList = 54B9AE692095F38D008A05DD /* Build configuration list for PBXProject "MycameraApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -212,37 +212,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 5449E7702095EFC8008D4E76;
-			productRefGroup = 5449E77A2095EFC8008D4E76 /* Products */;
+			mainGroup = 54B9AE652095F38D008A05DD;
+			productRefGroup = 54B9AE6F2095F38D008A05DD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5449E7782095EFC8008D4E76 /* Mycaeraapp */,
-				5449E78C2095EFC9008D4E76 /* MycaeraappTests */,
-				5449E7972095EFC9008D4E76 /* MycaeraappUITests */,
+				54B9AE6D2095F38D008A05DD /* MycameraApp */,
+				54B9AE812095F38E008A05DD /* MycameraAppTests */,
+				54B9AE8C2095F38E008A05DD /* MycameraAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5449E7772095EFC8008D4E76 /* Resources */ = {
+		54B9AE6C2095F38D008A05DD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5449E7872095EFC9008D4E76 /* LaunchScreen.storyboard in Resources */,
-				5449E7842095EFC9008D4E76 /* Assets.xcassets in Resources */,
-				5449E7822095EFC8008D4E76 /* Main.storyboard in Resources */,
+				54B9AE7C2095F38E008A05DD /* LaunchScreen.storyboard in Resources */,
+				54B9AE792095F38E008A05DD /* Assets.xcassets in Resources */,
+				54B9AE772095F38D008A05DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5449E78B2095EFC9008D4E76 /* Resources */ = {
+		54B9AE802095F38E008A05DD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5449E7962095EFC9008D4E76 /* Resources */ = {
+		54B9AE8B2095F38E008A05DD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -252,59 +252,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5449E7752095EFC8008D4E76 /* Sources */ = {
+		54B9AE6A2095F38D008A05DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5449E77F2095EFC8008D4E76 /* ViewController.swift in Sources */,
-				5449E77D2095EFC8008D4E76 /* AppDelegate.swift in Sources */,
+				54B9AE742095F38D008A05DD /* ViewController.swift in Sources */,
+				54B9AE722095F38D008A05DD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5449E7892095EFC9008D4E76 /* Sources */ = {
+		54B9AE7E2095F38E008A05DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5449E7922095EFC9008D4E76 /* MycaeraappTests.swift in Sources */,
+				54B9AE872095F38E008A05DD /* MycameraAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5449E7942095EFC9008D4E76 /* Sources */ = {
+		54B9AE892095F38E008A05DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5449E79D2095EFC9008D4E76 /* MycaeraappUITests.swift in Sources */,
+				54B9AE922095F38E008A05DD /* MycameraAppUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5449E78F2095EFC9008D4E76 /* PBXTargetDependency */ = {
+		54B9AE842095F38E008A05DD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5449E7782095EFC8008D4E76 /* Mycaeraapp */;
-			targetProxy = 5449E78E2095EFC9008D4E76 /* PBXContainerItemProxy */;
+			target = 54B9AE6D2095F38D008A05DD /* MycameraApp */;
+			targetProxy = 54B9AE832095F38E008A05DD /* PBXContainerItemProxy */;
 		};
-		5449E79A2095EFC9008D4E76 /* PBXTargetDependency */ = {
+		54B9AE8F2095F38E008A05DD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5449E7782095EFC8008D4E76 /* Mycaeraapp */;
-			targetProxy = 5449E7992095EFC9008D4E76 /* PBXContainerItemProxy */;
+			target = 54B9AE6D2095F38D008A05DD /* MycameraApp */;
+			targetProxy = 54B9AE8E2095F38E008A05DD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5449E7802095EFC8008D4E76 /* Main.storyboard */ = {
+		54B9AE752095F38D008A05DD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5449E7812095EFC8008D4E76 /* Base */,
+				54B9AE762095F38D008A05DD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		5449E7852095EFC9008D4E76 /* LaunchScreen.storyboard */ = {
+		54B9AE7A2095F38E008A05DD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5449E7862095EFC9008D4E76 /* Base */,
+				54B9AE7B2095F38E008A05DD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -312,7 +312,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		5449E79F2095EFC9008D4E76 /* Debug */ = {
+		54B9AE942095F38E008A05DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -372,7 +372,7 @@
 			};
 			name = Debug;
 		};
-		5449E7A02095EFC9008D4E76 /* Release */ = {
+		54B9AE952095F38E008A05DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -426,158 +426,158 @@
 			};
 			name = Release;
 		};
-		5449E7A22095EFC9008D4E76 /* Debug */ = {
+		54B9AE972095F38E008A05DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Mycaeraapp/Info.plist;
+				INFOPLIST_FILE = MycameraApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-613.Mycaeraapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycameraApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		5449E7A32095EFC9008D4E76 /* Release */ = {
+		54B9AE982095F38E008A05DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Mycaeraapp/Info.plist;
+				INFOPLIST_FILE = MycameraApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-613.Mycaeraapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycameraApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		5449E7A52095EFC9008D4E76 /* Debug */ = {
+		54B9AE9A2095F38E008A05DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MycaeraappTests/Info.plist;
+				INFOPLIST_FILE = MycameraAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycaeraappTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycameraAppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mycaeraapp.app/Mycaeraapp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MycameraApp.app/MycameraApp";
 			};
 			name = Debug;
 		};
-		5449E7A62095EFC9008D4E76 /* Release */ = {
+		54B9AE9B2095F38E008A05DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MycaeraappTests/Info.plist;
+				INFOPLIST_FILE = MycameraAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycaeraappTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycameraAppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mycaeraapp.app/Mycaeraapp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MycameraApp.app/MycameraApp";
 			};
 			name = Release;
 		};
-		5449E7A82095EFC9008D4E76 /* Debug */ = {
+		54B9AE9D2095F38E008A05DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MycaeraappUITests/Info.plist;
+				INFOPLIST_FILE = MycameraAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycaeraappUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycameraAppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Mycaeraapp;
+				TEST_TARGET_NAME = MycameraApp;
 			};
 			name = Debug;
 		};
-		5449E7A92095EFC9008D4E76 /* Release */ = {
+		54B9AE9E2095F38E008A05DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = MycaeraappUITests/Info.plist;
+				INFOPLIST_FILE = MycameraAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycaeraappUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "-613.MycameraAppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Mycaeraapp;
+				TEST_TARGET_NAME = MycameraApp;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5449E7742095EFC8008D4E76 /* Build configuration list for PBXProject "Mycaeraapp" */ = {
+		54B9AE692095F38D008A05DD /* Build configuration list for PBXProject "MycameraApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5449E79F2095EFC9008D4E76 /* Debug */,
-				5449E7A02095EFC9008D4E76 /* Release */,
+				54B9AE942095F38E008A05DD /* Debug */,
+				54B9AE952095F38E008A05DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5449E7A12095EFC9008D4E76 /* Build configuration list for PBXNativeTarget "Mycaeraapp" */ = {
+		54B9AE962095F38E008A05DD /* Build configuration list for PBXNativeTarget "MycameraApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5449E7A22095EFC9008D4E76 /* Debug */,
-				5449E7A32095EFC9008D4E76 /* Release */,
+				54B9AE972095F38E008A05DD /* Debug */,
+				54B9AE982095F38E008A05DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5449E7A42095EFC9008D4E76 /* Build configuration list for PBXNativeTarget "MycaeraappTests" */ = {
+		54B9AE992095F38E008A05DD /* Build configuration list for PBXNativeTarget "MycameraAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5449E7A52095EFC9008D4E76 /* Debug */,
-				5449E7A62095EFC9008D4E76 /* Release */,
+				54B9AE9A2095F38E008A05DD /* Debug */,
+				54B9AE9B2095F38E008A05DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5449E7A72095EFC9008D4E76 /* Build configuration list for PBXNativeTarget "MycaeraappUITests" */ = {
+		54B9AE9C2095F38E008A05DD /* Build configuration list for PBXNativeTarget "MycameraAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5449E7A82095EFC9008D4E76 /* Debug */,
-				5449E7A92095EFC9008D4E76 /* Release */,
+				54B9AE9D2095F38E008A05DD /* Debug */,
+				54B9AE9E2095F38E008A05DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5449E7712095EFC8008D4E76 /* Project object */;
+	rootObject = 54B9AE662095F38D008A05DD /* Project object */;
 }
